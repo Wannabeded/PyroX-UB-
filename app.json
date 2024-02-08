@@ -6,42 +6,42 @@
   "env": {
     "API_ID": {
       "description": "API ID obtained from my.telegram.org/apps",
-      "value": "",
+      "value": "25141232",
       "required": true
     },
     "API_HASH": {
       "description": "API Hash obtained from my.telegram.org/apps",
-      "value": "",
+      "value": "120617ed43ed5aade9b4ebbc5adcfe3e",
       "required": true
     },
     "SESSION": {
       "description": "Pyrogram String Session",
-      "value": "",
+      "value": "BQAlpPZ3n5U0wW-0RYLYp4grECoMsfpP4pMvoroNHfw9jOob0hzqgzFB05gNbd8kGM52nQxgVCoMPC2cRZccorVDYBf8Wkom7p2fjLILyvIFbKyzdh8dY_pKP9hsHTD2_kl16iFrApu9ScFW_iTsvu_nfMw6Lue6Ieuo6mBmX-jqnv5eoXQzsiMSVclIyeqZXeOHPO_YnVFzWKQx2lu0D8RbsSQ0Km4N9MCPt_k0C659AXoMBVuVHlK3zmzRs0cZcm6E8-pMIAiBNiwsUtzxETHAqkIg6RFiRjzZv9YRNpY8nmycV7aE4yOL23uIt38LbxGYVOwtZDmE3Gi2mwyKAAAAATxJGEkA",
       "required": true
     },
     "TOKEN": {
       "description": "Create your bot in @BotFather",
-      "value": "",
+      "value": "6559553737:AAFeUDvzgPL77sXLYiQaxwg_NcBzMOb0suU",
       "required": true
     },
     "MONGO_URI": {
       "description": "MongoDB database URL",
-      "value": "",
+      "value": "mongodb+srv://eren:eren@cluster0.aor5rcv.mongodb.net/?retryWrites=true&w=majority",
       "required": true
     },
     "GROUP_ID": {
       "description": "Private log chat ID",
-      "value": "",
+      "value": "-1001815473582",
       "required": true
     },
     "LOG_CHAT": {
       "description": "Private log chat ID (same as GROUP_ID)",
-      "value": "",
+      "value": "-1002116723674",
       "required": true
     },
     "BOTUSERNAME": {
       "description": "Put here bot username without @",
-      "value": "",
+      "value": "My_ub_bot",
       "required": true
     }
   }
